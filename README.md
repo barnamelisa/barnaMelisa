@@ -1,5 +1,5 @@
 # ✨ Hi! I'm Melisa ✨  
-🎓 **3rd-year Computer Science student** at Technical University of Cluj-Napoca.  
+🎓 **4th-year Computer Science student** at Technical University of Cluj-Napoca.  
 💻 Currently exploring **DevOps**, **AI**, **automotive** technologies, and more!  
 🧩 **Eager to learn** and always looking to improve my skills through hands-on projects.  
 
