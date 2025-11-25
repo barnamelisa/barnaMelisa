@@ -14,7 +14,7 @@ Enthusiastic 4th-year Computer Science student with hands-on experience in **Dev
 
 ## 💼 Work Experience  
 
-### Software Developer  
+### Software Developer Intern  
 **Cluj-Napoca, Romania**  
 📅 **Feb 2024 – August 2025**  
 
