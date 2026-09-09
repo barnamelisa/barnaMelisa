@@ -1,86 +1,104 @@
 # ✨ Hi! I'm Melisa Barna ✨
 
+### **Junior Data Engineer | AI & Data Platforms**
+
 📍 **Cluj-Napoca, Romania**  
-📧 barnamelisa09@gmail.com  
+📧 [barnamelisa09@gmail.com](mailto:barnamelisa09@gmail.com)  
 🌐 [LinkedIn](https://www.linkedin.com/in/melisa-barna-21477b2a1/)  
 📈 [GitHub](https://github.com/barnamelisa)  
 
 ---
 
-## 📝 Summary  
-Enthusiastic 4th-year Computer Science student with hands-on experience in **DevOps**, **AI**, **automotive technologies**, and **software development**. Passionate about learning new technologies, building projects, and improving skills through practical experience. Adept at problem-solving and committed to delivering high-quality work in collaborative environments.
+## 📝 About Me  
+First-year Master's student in **Communications Networks and Distributed Systems** at the Technical University of Cluj-Napoca, with a solid Computer Science background and hands-on experience in **Python, AI systems, data platforms, and backend development**. 
+
+Experienced in building and maintaining **production data workflows, internal automation, and AI/LLM-based architectures**, with strong exposure to cross-functional collaboration, cloud infrastructure, and reliable system operations. Passionate about engineering practical AI and automated data solutions that seamlessly integrate with real-world systems.
 
 ---
 
 ## 💼 Work Experience  
 
-### Software Developer Intern  
-**Cluj-Napoca, Romania**  
-📅 **Feb 2024 – August 2025**  
+### **Junior Data Practitioner 1 — P33 Aily Labs (Data Platform)**  
+📅 **June 2026 – Present** | Cluj-Napoca, Romania  
+- Contributed to production data workflows across **Apache Airflow DAGs**, normalization pipelines, and multi-tenant ingestion platforms.  
+- Supported platform migrations and staged cutovers (staging, UAT, production) including hotfix, backmerge, and deployment workflows.  
+- Investigated and resolved pipeline reliability and Airflow orchestration issues (e.g., stuck/queued runs) during day-to-day operations.  
+- Worked with **AWS, Kubernetes**, containerized workloads (ECR), and secure secrets management.  
+- Improved platform observability by configuring Slack alerting and updating **Datadog RDS monitors**.  
+- Maintained infrastructure and deployment configurations using **Terragrunt (IaC)** and **GitOps** workflows.  
 
-- Contributed to the development and improvement of a software platform for managing requirements.  
-- Migrated data between systems, organized requirements, and implemented automation features.  
-- Gained 1.7 years of hands-on experience working with coding standards, predefined templates, and extending application functionality based on given requirements.  
-- Used Docker and Dockerfiles in Ubuntu to containerize and deploy applications, ensuring scalability and deployment efficiency.  
-- Worked with Visual Studio Code and various extensions, including Sphinx, for enhanced development and documentation in Python projects.  
-- Applied docs-as-code practices to maintain documentation as part of the development workflow, using version control tools like Git.  
-- Developed strong skills in Git for version control, managing repositories, and collaborating within an Agile team.  
-- Participated in a workshop to build a parking sensor system using ultrasonic sensors, including a graphical interface with real-time distance-based color feedback.  
-- Familiar with Agile development practices such as sprint planning, task creation, and defining acceptance criteria.  
-- Gained hands-on experience in the automotive domain by developing and maintaining features within a modular architecture tailored for vehicle software systems.  
+### **Junior Data Engineer — Endava (Dava.X Program: Data & AI)**  
+📅 **March 2026 – May 2026** | Cluj-Napoca, Romania  
+- Developed backend logic for a **fraud/scam detection application**, processing structured data to identify suspicious messages and transactions.  
+- Prepared and processed structured data using relational databases for analytical and AI use cases.  
+- Applied Python and **AI/LLM concepts** into practical workflows; coordinated team deliverables as **Scrum Master**.  
+
+### **Software Developer Intern — Bosch**  
+📅 **Feb 2024 – Aug 2025** | Cluj-Napoca, Romania  
+- Built backend features for an internal platform, focusing on data processing, migration, and system requirements organization.  
+- Translated stakeholder needs into technical specifications and created Python automations for internal workflows and technical documentation.  
+- Containerized and deployed applications with **Docker on Linux**, collaborating in an Agile environment using Git.  
+
+---
+
+## 🚀 Featured Projects  
+
+### 🤖 [AI System Administrator Agent](https://github.com/barnamelisa)
+- Developed an AI system administration agent using **ADK, Ollama, and locally hosted LLMs** with tool-based interactions for OS tasks.  
+- Built a **FastMCP server** for secure filesystem interaction and integrated the agent, server, and web interface using **Docker Compose**.  
+*(Python, ADK, MCP, Ollama, Docker)*
+
+### 📊 [Machine Learning Pipeline & Model Analysis](https://github.com/barnamelisa)
+- Built end-to-end ML workflows for regression and classification, covering data preprocessing, feature engineering, and evaluation.  
+- Optimized models (**XGBoost, CatBoost, scikit-learn**) via `GridSearchCV` & `BayesSearchCV`, explaining predictions using **SHAP & LIME**.  
+*(Python, SQL, scikit-learn, XGBoost, CatBoost, SHAP, LIME)*
+
+### 🍰 [Chain of Confectioneries Data Platform](https://github.com/barnamelisa)
+- Designed and implemented microservices backed by **MySQL** for operational data exposure via REST APIs.  
+- Containerized services using **Docker** for standardized local testing and multi-service deployments.  
+*(Java, Spring Boot, MySQL, REST APIs, Docker)*
+
+### ♿ Accessible Route Planner for People with Disabilities *(Bachelor's Thesis)*
+- Developed an Android app in **Kotlin** using graph-based routing algorithms and accessibility-weighted scoring.  
+- Combined geographic and crowdsensed accessibility data; presented at **CSSC 2026** (awarded 2 mentions/prizes).  
+*(Kotlin, Graph Algorithms, Android, Crowdsensing)*
 
 ---
 
 ## 🎓 Education  
 
-### Computer Science - Bachelor  
-**Technical University of Cluj-Napoca** — Cluj-Napoca, Romania  
-📅 **Expected 2026**  
-
-- **Relevant Coursework**: Data Structures, Algorithms, Object-Oriented Programming, Web Development, Database Systems, Operating Systems, Computer Networks.  
-- **Achievements**: Completed projects involving **full-stack development**, **embedded systems**, and **AI experimentation**.  
+- **Master’s Degree in Communications Networks and Distributed Systems**  
+  *Technical University of Cluj-Napoca* | 📅 **2026 – Present**  
+- **Bachelor of Computer Science**  
+  *Technical University of Cluj-Napoca* | 📅 **Graduated June 2026**  
+  *Coursework*: Distributed Systems, Artificial Intelligence, Databases, Algorithms & Data Structures.  
 
 ---
 
 ## 🛠️ Skills  
 
-### Technical Skills  
-- **Languages & Frameworks**: C, C#, C++, Java, Python, Spring, Gradle  
-- **Frontend / Backend**: HTML, CSS, Thymeleaf, basic REST APIs  
-- **Embedded / Hardware**: Arduino, VHDL, OpenGL, Blender  
-- **Databases**: MySQL, basic NoSQL concepts  
-- **DevOps & Tools**: Docker, Git, CI/CD pipelines  
-- **AI & Machine Learning**: Image processing and model experimentation  
-
-### Soft Skills  
-- **Problem-Solving**: Analytical and logical thinking  
-- **Collaboration**: Teamwork in projects and academic settings  
-- **Time Management**: Prioritizing tasks and meeting deadlines  
-- **Continuous Learning**: Rapidly acquiring new technical skills  
+| Category | Technologies & Tools |
+| :--- | :--- |
+| **Data Engineering** | SQL, Apache Airflow, ETL Pipelines, Data Processing & Normalization |
+| **AI & Machine Learning** | LLMs, Model Context Protocol (MCP), Ollama, scikit-learn, XGBoost, CatBoost, SHAP, LIME |
+| **Languages** | Python, Java, SQL, Kotlin, C |
+| **Cloud & DevOps** | AWS (ECR), Kubernetes, Docker, Linux, Bash, GitOps, Terragrunt (IaC) |
+| **Observability & Tools** | Datadog, Git, Slack Alerting, Agile / Scrum |
+| **Databases & Backend** | PostgreSQL, MySQL, MongoDB, Spring Boot, Microservices, REST APIs, RabbitMQ |
 
 ---
 
-## 🏅 Certifications  
+## 🏅 Certifications & Continuous Learning  
 
-- **Microsoft: Machine Learning in Azure**  
-- **Microsoft: Introduction to AI Concepts**  
-- **Microsoft: Introduction to Machine Learning Concepts**  
-
----
-
-## 🏃 Activities & Hackathons
-
-- Regular participant in local and university **hackathons** and coding challenges.  
-- Enjoy collaborating in multidisciplinary teams to rapidly prototype solutions (AI, IoT, web).  
-- Examples of contributions: prototype image-processing pipelines, quick frontend demos, and embedded sensor integrations.  
-- Open to participating in more hackathons and collaborative sprints — great environment for learning and networking.
+- **Kubernetes Application Developer** *(In progress)* — Container orchestration, K8s architecture & deployment.  
+- **Microsoft AI & Cloud Fundamentals** *(In progress)* — Cloud platforms, data services & AI capabilities.  
+- **Microsoft Certified**: Machine Learning in Azure & AI Concepts  
 
 ---
 
-## 🌟 Interests  
-- **DevOps & Automation**: Containerization, pipelines, CI/CD  
-- **AI & Deep Learning**: Image processing and model deployment  
-- **Embedded Systems & IoT**: Arduino projects and VHDL  
-- **Graphics & 3D**: OpenGL and Blender experimentation  
-- **Sports & Fitness**: Running and staying active  
-- **Coffee Lover** ☕  
+## 🌐 Languages  
+
+- **Romanian**: Native  
+- **English**: Professional working proficiency  
+- **German**: Beginner  
+- **Hungarian**: Beginner
