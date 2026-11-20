@@ -19,7 +19,7 @@ Experienced in building and maintaining **production data workflows, internal au
 ## 💼 Work Experience  
 
 ### **Junior Data Practitioner 1 — P33 Aily Labs (Data Platform)**  
-📅 **June 2026 – Present** | Cluj-Napoca, Romania  
+📅 **June 2026 – September 2026** | Cluj-Napoca, Romania  
 - Contributed to production data workflows across **Apache Airflow DAGs**, normalization pipelines, and multi-tenant ingestion platforms.  
 - Supported platform migrations and staged cutovers (staging, UAT, production) including hotfix, backmerge, and deployment workflows.  
 - Investigated and resolved pipeline reliability and Airflow orchestration issues (e.g., stuck/queued runs) during day-to-day operations.  
